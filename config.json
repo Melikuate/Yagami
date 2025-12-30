@@ -18,8 +18,8 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "ediide909@gmail.com",
-    "password": "zenithback10877",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -36,8 +36,8 @@
     "hideNotiMessage": true
   },
   "adminBot": [
-    "100078690213463",
-    "100082866835315"
+    "61585756052841",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
@@ -46,8 +46,8 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "zenith remake",
-  "prefix": "/",
+  "nickNameBot": "Ꭺ-ᏞᏢᎻᎪ",
+  "prefix": "•",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
