@@ -22,7 +22,7 @@ module.exports = {
             multiple1: "bạn",
             multiple2: "các bạn",
             defaultWelcomeMessage: "Xin chào {userName}.\nChào mừng bạn đến với {boxName}.\nChúc bạn có buổi {session} vui vẻ!",
-            approvalMessage: "Hi, I'm Nezuko bot. Thanks for adding me to the group\n\nBut you need approval to use the bot.\nPlease contact the admin \n\n💬 m.me/JISHAN76\n\n I have to leave the chat now. Thank you!"
+            approvalMessage: "Hi, I'm  Ꭺ-ᏞᏢᎻᎪ . Thanks for adding me to the group\n\nBut you need approval to use the bot.\nPlease contact the admin \n\n💬 m.me/JISHAN76\n\n I have to leave the chat now. Thank you!"
         },
         en: {
             session1: "morning",
